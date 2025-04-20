@@ -33,4 +33,4 @@
 21. You can also refer to the frontend code to see how it is used to interact with MongoDB database.
 
 ### GitHub Link
-https://github.com/sohailreza16/ShoppyGlobe.git
+https://github.com/sohailreza16/ShoppyGlobe-NodeJS-Backend.git
